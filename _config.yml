@@ -16,7 +16,7 @@ disqus: true
 disqus_shortname: 'jrichardlai'
 
 # Details for the RSS feed generator
-url:            'http://jrichardlai.com'
+url:            'http://www.jrichardlai.com'
 author:         'Jean-Richard Lai'
 authorTwitter:  'jrichardlai'
 
@@ -43,3 +43,6 @@ defaults:
             layout: post
 
 exclude: [vendor]
+
+gems:
+  - jemoji
