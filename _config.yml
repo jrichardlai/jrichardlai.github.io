@@ -1,0 +1,44 @@
+name: Jean-Richard Lai
+description: Code and other things
+meta_description: "ruby on rails, react, react-native, code, software engineer"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://jrichardlai.com'
+google_analytics: 'UA-15492959-1'
+disqus: true
+disqus_shortname: 'jrichardlai'
+
+# Details for the RSS feed generator
+url:            'http://jrichardlai.com'
+author:         'Jean-Richard Lai'
+authorTwitter:  'jrichardlai'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+exclude: [vendor]
