@@ -4,11 +4,12 @@ permalink: about/
 profile: true
 ---
 
-Senior Software Engineer.
+Senior Software Engineer. Tech Lead @ [TaskRabbit](https://www.taskrabbit.com).
 
-* 12 years in the web 2.0
+* 12 years in Web
+* Ruby On Rails
+* React-Native
 * Agile method
 * TDD
-* Self-sufficient
 
 {% include footer.html %}
