@@ -1,0 +1,43 @@
+---
+title:  "I <3 ES6"
+date:   2015-10-25 15:30:00
+description: Yes I do
+categories: javascript, es6
+---
+
+I came back to JavaScript world after mostly working in backend for the last years at [TaskRabbit](http://www.taskrabbit.com), I was impressed by how much this World changed.
+
+I can say now that I came to **love JavaScript as much as Ruby**.
+
+I enjoyed using CoffeeScript, I know that a lot of the pure JS developers I know were not a fond of it because the sugar syntax gets confusing and because of the gotchas of the `var` statement.
+
+I admit that it did feel like another language to learn:
+
+* You'd have to be careful of spaces.
+* You don't really know how the code will look like after it has been compiled.
+
+&nbsp;
+
+### ES6
+
+EcmaScript is the Standardized Scripting Language that JavaScript implements.
+[ES6](https://github.com/lukehoban/es6features) (also known as ES2015) is the new version following ES5.
+
+Within one hour of playing and reading about it, I got really excited, this really feels like improvements that I was waiting for in JavaScript.
+It is more expressive and encourage functional programming, lots of JavaScript boilerplate is removed.
+
+Here are some of my favorite features:
+
+* Classes
+* Fat Arrow (autobinding)
+* Promises
+* Template strings
+* Function parameters default values
+* Spread
+* Destructing objects
+
+&nbsp;
+
+You can use ES6 right now using [babel](https://babeljs.io/).
+
+ES7 is still in draft and it features decorators and static properties which for me really completes the classes from ES6.
