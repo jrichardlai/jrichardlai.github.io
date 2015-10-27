@@ -20,7 +20,7 @@ url:            'http://www.jrichardlai.com'
 author:         'Jean-Richard Lai'
 authorTwitter:  'jrichardlai'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:day/:title
 
 defaults:
     -
