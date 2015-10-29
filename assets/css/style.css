@@ -295,7 +295,7 @@ span.code, code { font-family:Menlo, Monaco, Courier; background-color:#EEE; fon
 
 pre	{
 	font-family:Menlo, Monaco, Courier;
-	white-space:pre-wrap;
+	white-space: wrap;
 	/*border: 1px solid #ddd;*/
 	padding:20px;
 	background-color:#fdfdfd;
