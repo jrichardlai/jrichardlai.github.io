@@ -1,7 +1,7 @@
 ---
 title: Time zones and Daylight Saving Time
 date:   2015-10-28 22:59:00
-description: As if Timezones where not enough
+description: As if Time zones where not enough
 ---
 
 As we have grown bigger at [TaskRabbit](https://www.taskrabbit.com) in the US and out of the country, we are heavily using time zones to allow Clients to hire Taskers for future dates.
