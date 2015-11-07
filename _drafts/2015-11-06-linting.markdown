@@ -1,0 +1,27 @@
+---
+title: Use a Linter
+date: 2015-11-06 21:59:00
+description: Make your life simpler
+---
+
+I have been using a linter since 2 months ago, I can't believe how I could work without using one.
+
+It's not just about prettiness of the code but also make your code more safe and reliable.
+
+By using a linter you can catch even before saving a file syntax errors and code that could become problematic (unused variables, )
+
+I am using it for projects where I work alone but its even more powerful when people are using it together, because the readability and convention is shared.
+
+Sometimes I ask myself if I like a space here or not, and having it written down and making a software tell you what is correct and not remove this cognitive process, which save you lots of milli.
+
+And if you do want to change your rule, then aslant allow you to just run a command to fix it.
+
+I am feeling uneasy when I see that some code is wrong.
+
+This also brought discussion with my coworker about what style of coding they like.
+
+My personal vision is that I'm trying to always have less *git changes*, what I mean by that is that I like having unit changes when changing a line
+
+I like comma dangle and preposition of || and &&
+
+`example here`
