@@ -36,8 +36,6 @@ Here are some of my favorite features:
 * Spread
 * Destructing objects
 
-&nbsp;
-
 You can use ES6 right now using [babel](https://babeljs.io/).
 
 ES7 is still in draft and it features decorators and static properties which for me really completes the classes from ES6.
