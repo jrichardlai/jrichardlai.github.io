@@ -5,7 +5,10 @@ meta_description: "Jean-Richard lai web 2.0 Ruby on Rails Developer"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM
+
 highlighter: pygments
 
 paginate: 20
