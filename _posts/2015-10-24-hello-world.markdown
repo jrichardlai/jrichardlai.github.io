@@ -1,6 +1,5 @@
 ---
 title:  "Hello World!"
-date:   2015-10-24 21:59:00
 description: My first blog post
 ---
 

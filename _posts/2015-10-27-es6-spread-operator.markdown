@@ -1,6 +1,5 @@
 ---
 title: ES6 Spread Operator
-date:   2015-10-27 22:59:00
 description: Cleanup code
 ---
 

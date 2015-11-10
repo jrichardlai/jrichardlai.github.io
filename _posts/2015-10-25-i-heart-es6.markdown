@@ -1,6 +1,5 @@
 ---
 title:  "I <3 ES6"
-date:   2015-10-25 15:30:00
 description: Yes I do
 categories: javascript, es6
 ---

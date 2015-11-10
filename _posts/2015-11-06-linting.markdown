@@ -1,6 +1,5 @@
 ---
 title: Use a Linter
-date: 2015-11-06 21:59:00
 description: Make your life simpler
 ---
 

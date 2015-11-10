@@ -1,6 +1,5 @@
 ---
 title: Time zones and Daylight Saving Time
-date:   2015-10-28 22:59:00
 description: As if Time zones where not enough
 ---
 
