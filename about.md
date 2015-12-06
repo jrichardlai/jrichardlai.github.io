@@ -9,7 +9,6 @@ Senior Software Engineer. Tech Lead @ [TaskRabbit](https://www.taskrabbit.com).
 * 12 years in Web
 * Ruby On Rails
 * React-Native
-* Agile method
-* TDD
+* Test Driven Development
 
 {% include footer.html %}
