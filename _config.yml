@@ -12,18 +12,18 @@ kramdown:
 highlighter: rouge
 
 paginate: 20
-baseurl: /
+baseurl: 
 domain_name: 'http://jrichardlai.com'
 google_analytics: 'UA-15492959-1'
 disqus: true
 disqus_shortname: 'jrichardlai'
 
 # Details for the RSS feed generator
-url:            'http://www.jrichardlai.com'
+url:            'http://jrichardlai.com'
 author:         'Jean-Richard Lai'
 authorTwitter:  'jrichardlai'
 
-permalink:       /:year/:month/:day/:title
+permalink:       :year/:month/:day/:title
 
 defaults:
     -
