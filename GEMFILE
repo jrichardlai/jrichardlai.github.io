@@ -3,3 +3,4 @@ source "http://rubygems.org"
 gem 'github-pages'
 gem 'jemoji'
 gem 'kramdown'
+gem 'jekyll-sitemap'

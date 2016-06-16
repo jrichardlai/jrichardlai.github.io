@@ -127,6 +127,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-sitemap
   jemoji
   kramdown
 

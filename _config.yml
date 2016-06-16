@@ -49,3 +49,4 @@ exclude: [vendor]
 
 gems:
   - jemoji
+  - jekyll-sitemap
