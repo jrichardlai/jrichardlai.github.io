@@ -1,5 +1,6 @@
 name: Jean-Richard Lai
-description: Code and other things
+description_text: Code and other things
+description: "Ruby on Rails / React Native Developer"
 meta_keywords: web developer, ruby on rails developer, web, react, react-native, javascript
 meta_description: "Jean-Richard Lai Ruby on Rails / React Native Developer"
 
@@ -12,7 +13,7 @@ kramdown:
 highlighter: rouge
 
 paginate: 20
-baseurl: 
+baseurl:
 domain_name: 'http://jrichardlai.com'
 google_analytics: 'UA-15492959-1'
 disqus: true
@@ -50,3 +51,4 @@ exclude: [vendor]
 gems:
   - jemoji
   - jekyll-sitemap
+  - jekyll-seo-tag
